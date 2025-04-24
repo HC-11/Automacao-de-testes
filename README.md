@@ -7,7 +7,7 @@
 4. Uso de reports para relatórios como Allure Reports e Mochawesome
 
 ## Cypress API
-1. Automação dos testes CRUD (<code style="color : red">**C**</code>reat/Post, <code style="color : red">**R**</code>ead/Get, <code style="color : red">**U**</code>Update/Put, <code style="color : red">**D**</code>elete) 
+1. Automação dos testes CRUD (**C**reat/Post, **R**ead/Get, **U**pdate/Put, **D**elete) 
 2. Uso de arrays e loops para melhorar a performance dos scripts
 3. API usada: [restful-api.dev](https://restful-api.dev/) 
 4. Uso do page objects para evitar código prolixo 
