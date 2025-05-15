@@ -1,0 +1,21 @@
+# Automação de testes de software (QA)
+
+## CodeceptJS web
+1. Testes de login, em site próprio da QAzando
+2. Criação de cenários de testes usando Gherkin
+3. Uso de libs para testes (ex: FakerJS)
+4. Uso de reports para relatórios como Allure Reports
+
+## Cypress API
+1. Automação dos testes CRUD usando 
+2. Uso de arrays e loops para melhorar a performance dos scripts
+3. API usada: [restful-api.dev](https://restful-api.dev/) 
+4. Uso do page objects para evitar código prolixo 
+
+## Frameworks e linguagens (por enquanto)
+
+| Frameworks  | Linguagens |
+| ------------- |:-------------:|
+| CodeceptJS    | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     |
+| Cypress       | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     |
+

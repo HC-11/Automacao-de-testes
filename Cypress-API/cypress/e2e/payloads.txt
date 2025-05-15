@@ -1,0 +1,32 @@
+{
+   "name": "Pixel 9",
+   "data": {
+      "year": 2025,
+      "price": 1799.99,
+      "CPU model": "Google Tensor G4",
+      "Hard disk size": "512 GB",
+      "color": "Obsidian"
+   }
+}
+
+{
+   "name": "iPhone 16 Pro",
+   "data": {
+      "year": 2025,
+      "price": 1499.99,
+      "CPU model": "A18 Pro",
+      "Hard disk size": "1 TB",
+      "color": "Titanium white"
+   }
+}
+
+{
+   "name": "Galaxy Z Flip6",
+   "data": {
+      "year": 2025,
+      "price": 1299.99,
+      "CPU model": "Snapdragon 3.4GHz",
+      "Hard disk size": "512 GB",
+      "color": "Silver shadow"
+   }
+}
